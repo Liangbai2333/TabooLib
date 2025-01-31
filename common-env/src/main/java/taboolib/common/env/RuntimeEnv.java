@@ -6,7 +6,7 @@ import taboolib.common.PrimitiveIO;
 import taboolib.common.PrimitiveSettings;
 import taboolib.common.TabooLib;
 
-import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
